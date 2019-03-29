@@ -1,0 +1,8 @@
+[package]
+name = "ckb-vm-wrapper"
+version = "0.1.0"
+authors = ["cipher <cipher@nervos.org>"]
+edition = "2018"
+
+[dependencies]
+ckb-vm = { path = "ckb-vm" }
